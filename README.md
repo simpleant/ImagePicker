@@ -1,2 +1,5 @@
 # ImagePicker
-模仿微信拾取图片，图片截取，拍照获取图片
+图片拾取工具
+该工具使用了https://github.com/Yalantis/uCrop
+Yalant的多功能图片裁切工具
+模仿微信的图片选择简单实现
